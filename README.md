@@ -11,5 +11,6 @@
 9. git checkout master
 10. git branch -d branch-Ivonne
 11. git push
+12. git commit -am
 
 
